@@ -4,7 +4,7 @@
 
 
 I started my journey to become a web developer last year and since then I've never stopped learning. 
-I mainly use the following tools and languages for every of my projects : 
+I mainly use the following tools and languages for all of my projects : 
 
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
