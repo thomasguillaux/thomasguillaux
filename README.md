@@ -6,7 +6,7 @@ I started my journey to become a web developer last year and since then I've nev
 My stack is mainly based on Javascript, React, Node.js, Express.js and MongoDB which allows me to work on full-stack projects. 
 
 I'm based in Bordeaux, France :wine_glass: and I'm currently looking for a new job / internship opportunity :briefcase:  
-I was formerly working as a Sales Executive in leading tech companies such as SAP. More info on my resume ! 
+I was formerly working as a Sales Executive in leading tech companies such as SAP. More info on my [resume](https://tguillaux.com/). ! 
 
 #### On my Github you will find...
 
