@@ -1,7 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+### I'm Thomas and I'm a web developer.
+
+I started my journey to become a web developer last year and since then I haven't stopped learning. 
+My stack is mainly based on React, Node.js, Express.js and MongoDB which allows me to work on full-stack projects too. 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
