@@ -15,7 +15,7 @@ I mainly use the following tools and languages for every of my projects :
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />  
+<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> 
 
 <br />
 <br />
@@ -36,8 +36,8 @@ Here are a few examples of my various projects:
 4. Vinted Clone 
 
 ### Feel free to contact me 
-* Email: thomasguillaux@gmail.com  
-* LinkedIn: https://www.linkedin.com/in/thomasguillaux/
+* [Email](mailto:thomasguillaux.com?subject=[GitHub])
+* [Linkedin](https://www.linkedin.com/in/thomasguillaux/)
 
 
 
