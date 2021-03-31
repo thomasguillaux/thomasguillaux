@@ -19,14 +19,17 @@ I mainly use the following tools and languages for every of my projects :
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> 
 
 <br />
+<br />
 
 I'm also currently learning the following topics: 
+
+
 <img align="left" alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <br />
 <br />
-<br />
+
 
 I'm based in France :wine_glass: and I'm currently looking for a new job / internship opportunity :briefcase:  
 I was formerly working as a Sales Executive in leading tech companies such as SAP. More info on my [resume](https://tguillaux.com/) ! 
