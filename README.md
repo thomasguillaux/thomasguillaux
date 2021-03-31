@@ -30,12 +30,6 @@ I was formerly working as a Sales Executive in leading tech companies such as SA
 ... several Full-stack projects that I have accomplished either alone or following tutorials.  
 Some of them are still under construction.
 
-Here are a few examples of my various projects:
-1. The classical To Do List 
-2. Marvel Characters 
-3. Deliveroo Clone 
-4. Vinted Clone 
-
 ### Feel free to contact me 
 * [Email](mailto:thomasguillaux.com?subject=[GitHub])
 * [Linkedin](https://www.linkedin.com/in/thomasguillaux/)
