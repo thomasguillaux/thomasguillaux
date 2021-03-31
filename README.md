@@ -22,13 +22,13 @@ I mainly use the following tools and languages for every of my projects :
 <br />
 <br />
 
-I'm based in Bordeaux, France :wine_glass: and I'm currently looking for a new job / internship opportunity :briefcase:  
+I'm based in France :wine_glass: and I'm currently looking for a new job / internship opportunity :briefcase:  
 I was formerly working as a Sales Executive in leading tech companies such as SAP. More info on my [resume](https://tguillaux.com/) ! 
 
 #### On my Github you will find...
 
 ... several Full-stack projects that I have accomplished either alone or following tutorials.  
-Some of them are still under construction
+Some of them are still under construction.
 
 Here are a few examples of my various projects:
 1. The classical To Do List 
