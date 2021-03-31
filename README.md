@@ -16,7 +16,9 @@ I mainly use the following tools and languages for every of my projects :
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />  
 
-</br>
+<br />
+<br />
+
 I'm based in Bordeaux, France :wine_glass: and I'm currently looking for a new job / internship opportunity :briefcase:  
 I was formerly working as a Sales Executive in leading tech companies such as SAP. More info on my [resume](https://tguillaux.com/) ! 
 
