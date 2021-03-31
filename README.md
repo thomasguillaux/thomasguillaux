@@ -2,6 +2,7 @@
 
 ### I'm a Full-stack Web Developer.
 
+
 I started my journey to become a web developer last year and since then I've never stopped learning. 
 I mainly use the following tools and languages for every of my projects : 
 
@@ -27,7 +28,7 @@ I was formerly working as a Sales Executive in leading tech companies such as SA
 #### On my Github you will find...
 
 ... several Full-stack projects that I have accomplished either alone or following tutorials.  
-Some of them are still under construction :construction:
+Some of them are still under construction
 
 Here are a few examples of my various projects:
 1. The classical To Do List 
